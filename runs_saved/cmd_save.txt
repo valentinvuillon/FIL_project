@@ -1,0 +1,156 @@
+here we saved the output of the comand prompt when executing main.py
+These two runs are the one used in the project results
+
+
+run0, number of parameters neural network: 3000.0, size hidden layer: 4
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:52<00:00,  9.20it/s]
+run0, number of parameters neural network: 4000.0, size hidden layer: 5
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:57<00:00,  9.12it/s]
+run0, number of parameters neural network: 7000.0, size hidden layer: 9
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:51<00:00,  9.21it/s]
+run0, number of parameters neural network: 10000.0, size hidden layer: 13
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:56<00:00,  9.14it/s]
+run0, number of parameters neural network: 20000.0, size hidden layer: 25
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:41<00:00,  9.36it/s]
+run0, number of parameters neural network: 25000.0, size hidden layer: 31
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:31<00:00,  9.50it/s]
+run0, number of parameters neural network: 27000.0, size hidden layer: 34
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:30<00:00,  9.52it/s]
+run0, number of parameters neural network: 29000.0, size hidden layer: 36
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:27<00:00,  9.57it/s]
+run0, number of parameters neural network: 31000.0, size hidden layer: 39
+Using device: cuda
+Training Progress:   1%|▌                                         | 86/6000 [00:09<10:25,  9.45it/s]
+run0, number of parameters neural network: 32000.0, size hidden layer: 40
+Using device: cuda
+Training Progress:   0%|                                                   | 0/6000 [00:00<?, ?it/s]
+run0, number of parameters neural network: 33000.0, size hidden layer: 41
+Using device: cuda
+Training Progress:   0%|                                                   | 0/6000 [00:00<?, ?it/s]
+run0, number of parameters neural network: 34000.0, size hidden layer: 43
+Using device: cuda
+Training Progress:   0%|                                                   | 0/6000 [00:00<?, ?it/s]
+run0, number of parameters neural network: 35000.0, size hidden layer: 44
+Using device: cuda
+Training Progress:   0%|                                                   | 0/6000 [00:00<?, ?it/s]
+run0, number of parameters neural network: 37000.0, size hidden layer: 47
+Using device: cuda
+Training Progress:   0%|                                                   | 0/6000 [00:00<?, ?it/s]
+run0, number of parameters neural network: 39000.0, size hidden layer: 49
+Using device: cuda
+Training Progress:   0%|                                                   | 0/6000 [00:00<?, ?it/s]
+run0, number of parameters neural network: 40000.0, size hidden layer: 50
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:39<00:00,  9.38it/s]
+run0, number of parameters neural network: 42000.0, size hidden layer: 53
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:39<00:00,  9.38it/s]
+run0, number of parameters neural network: 45000.0, size hidden layer: 57
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:44<00:00,  9.31it/s]
+run0, number of parameters neural network: 50000.0, size hidden layer: 63
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:37<00:00,  9.41it/s]
+run0, number of parameters neural network: 55000.0, size hidden layer: 69
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:36<00:00,  9.43it/s]
+run0, number of parameters neural network: 70000.0, size hidden layer: 88
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:33<00:00,  9.47it/s]
+run0, number of parameters neural network: 200000.0, size hidden layer: 252
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:37<00:00,  9.41it/s]
+run0, number of parameters neural network: 250000.0, size hidden layer: 314
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:43<00:00,  9.33it/s]
+run0, number of parameters neural network: 800000.0, size hidden layer: 1006
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [11:03<00:00,  9.04it/s]
+
+3h2min
+
+
+
+run1, number of parameters neural network: 3000.0, size hidden layer: 4
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:44<00:00,  9.31it/s]
+run1, number of parameters neural network: 4000.0, size hidden layer: 5
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [11:01<00:00,  9.08it/s]
+run1, number of parameters neural network: 7000.0, size hidden layer: 9
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [11:13<00:00,  8.91it/s]
+run1, number of parameters neural network: 10000.0, size hidden layer: 13
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:53<00:00,  9.19it/s]
+run1, number of parameters neural network: 20000.0, size hidden layer: 25
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:40<00:00,  9.37it/s]
+run1, number of parameters neural network: 25000.0, size hidden layer: 31
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:32<00:00,  9.48it/s]
+run1, number of parameters neural network: 27000.0, size hidden layer: 34
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:30<00:00,  9.52it/s]
+run1, number of parameters neural network: 29000.0, size hidden layer: 36
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:27<00:00,  9.57it/s]
+run1, number of parameters neural network: 31000.0, size hidden layer: 39
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:27<00:00,  9.57it/s]
+run1, number of parameters neural network: 32000.0, size hidden layer: 40
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:26<00:00,  9.58it/s]
+run1, number of parameters neural network: 33000.0, size hidden layer: 41
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:27<00:00,  9.56it/s]
+run1, number of parameters neural network: 34000.0, size hidden layer: 43
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:34<00:00,  9.45it/s]
+run1, number of parameters neural network: 35000.0, size hidden layer: 44
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:35<00:00,  9.43it/s]
+run1, number of parameters neural network: 37000.0, size hidden layer: 47
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:37<00:00,  9.42it/s]
+run1, number of parameters neural network: 39000.0, size hidden layer: 49
+Using device: cuda
+Training Progress:  18%|███████▎                                | 1100/6000 [01:55<08:34,  9.53it/s]
+run1, number of parameters neural network: 40000.0, size hidden layer: 50
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:37<00:00,  9.41it/s]
+run1, number of parameters neural network: 42000.0, size hidden layer: 53
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:35<00:00,  9.44it/s]
+run1, number of parameters neural network: 45000.0, size hidden layer: 57
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:30<00:00,  9.52it/s]
+run1, number of parameters neural network: 50000.0, size hidden layer: 63
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:29<00:00,  9.53it/s]
+run1, number of parameters neural network: 55000.0, size hidden layer: 69
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:29<00:00,  9.53it/s]
+run1, number of parameters neural network: 70000.0, size hidden layer: 88
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [10:29<00:00,  9.53it/s]
+run1, number of parameters neural network: 200000.0, size hidden layer: 252
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [12:12<00:00,  8.19it/s]
+run1, number of parameters neural network: 250000.0, size hidden layer: 314
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [14:20<00:00,  6.98it/s]
+run1, number of parameters neural network: 800000.0, size hidden layer: 1006
+Using device: cuda
+Training Progress: 100%|████████████████████████████████████████| 6000/6000 [11:20<00:00,  8.82it/s]
+
+
+run1: 4h10 mins

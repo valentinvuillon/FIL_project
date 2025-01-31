@@ -1,0 +1,7 @@
+Training started at 06:00:19
+Epoch 1/6000
+Train Squared Loss: 0.0000777, Validation Squared Loss: 0.0532950
+Train Zero One Loss: 0.0000000, Validation Zero One Loss: 0.1938477
+Learning rate: 0.01
+Early stopping
+Training ended at 06:00:19

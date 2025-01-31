@@ -1,1 +1,2 @@
-# FIL_project
+# Fundamentals of inference and learning project
+
