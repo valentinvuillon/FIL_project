@@ -1,9 +1,102 @@
-Training started at 17:57:53
+Training started at 23:10:47
 Epoch 1/25
-Train Squared Loss: 0.0161054, Validation Squared Loss: 0.0222274
-Train Zero One Loss: 0.0535714, Validation Zero One Loss: 0.0917969
+Train Squared Loss: 0.0136475, Validation Squared Loss: 0.0214785
+Train Zero One Loss: 0.0443948, Validation Zero One Loss: 0.0968863
 Learning rate: 0.01
 Epoch 2/25
-Train Squared Loss: 0.0159947, Validation Squared Loss: 0.0221527
-Train Zero One Loss: 0.0530754, Validation Zero One Loss: 0.0920974
+Train Squared Loss: 0.0135261, Validation Squared Loss: 0.0214354
+Train Zero One Loss: 0.0431548, Validation Zero One Loss: 0.0958534
 Learning rate: 0.01
+Epoch 3/25
+Train Squared Loss: 0.0134670, Validation Squared Loss: 0.0214132
+Train Zero One Loss: 0.0429067, Validation Zero One Loss: 0.0960975
+Learning rate: 0.01
+Epoch 4/25
+Train Squared Loss: 0.0133990, Validation Squared Loss: 0.0213884
+Train Zero One Loss: 0.0424107, Validation Zero One Loss: 0.0953651
+Learning rate: 0.01
+Epoch 5/25
+Train Squared Loss: 0.0133366, Validation Squared Loss: 0.0213616
+Train Zero One Loss: 0.0419147, Validation Zero One Loss: 0.0946327
+Learning rate: 0.01
+Epoch 6/25
+Train Squared Loss: 0.0132716, Validation Squared Loss: 0.0213397
+Train Zero One Loss: 0.0411706, Validation Zero One Loss: 0.0946327
+Learning rate: 0.01
+Epoch 7/25
+Train Squared Loss: 0.0132090, Validation Squared Loss: 0.0213326
+Train Zero One Loss: 0.0409226, Validation Zero One Loss: 0.0946327
+Learning rate: 0.01
+Epoch 8/25
+Train Squared Loss: 0.0131516, Validation Squared Loss: 0.0213055
+Train Zero One Loss: 0.0406746, Validation Zero One Loss: 0.0943885
+Learning rate: 0.01
+Epoch 9/25
+Train Squared Loss: 0.0130869, Validation Squared Loss: 0.0212994
+Train Zero One Loss: 0.0399306, Validation Zero One Loss: 0.0947641
+Learning rate: 0.01
+Epoch 10/25
+Train Squared Loss: 0.0130292, Validation Squared Loss: 0.0212809
+Train Zero One Loss: 0.0389385, Validation Zero One Loss: 0.0945763
+Learning rate: 0.01
+Epoch 11/25
+Train Squared Loss: 0.0129664, Validation Squared Loss: 0.0212567
+Train Zero One Loss: 0.0379464, Validation Zero One Loss: 0.0945200
+Learning rate: 0.01
+Epoch 12/25
+Train Squared Loss: 0.0129062, Validation Squared Loss: 0.0212549
+Train Zero One Loss: 0.0379464, Validation Zero One Loss: 0.0945200
+Learning rate: 0.01
+Epoch 13/25
+Train Squared Loss: 0.0128478, Validation Squared Loss: 0.0212390
+Train Zero One Loss: 0.0376984, Validation Zero One Loss: 0.0945763
+Learning rate: 0.01
+Epoch 14/25
+Train Squared Loss: 0.0127920, Validation Squared Loss: 0.0212228
+Train Zero One Loss: 0.0376984, Validation Zero One Loss: 0.0945763
+Learning rate: 0.01
+Epoch 15/25
+Train Squared Loss: 0.0127368, Validation Squared Loss: 0.0212219
+Train Zero One Loss: 0.0379464, Validation Zero One Loss: 0.0943322
+Learning rate: 0.01
+Epoch 16/25
+Train Squared Loss: 0.0126807, Validation Squared Loss: 0.0211985
+Train Zero One Loss: 0.0359623, Validation Zero One Loss: 0.0943885
+Learning rate: 0.01
+Epoch 17/25
+Train Squared Loss: 0.0126284, Validation Squared Loss: 0.0211925
+Train Zero One Loss: 0.0357143, Validation Zero One Loss: 0.0943885
+Learning rate: 0.01
+Epoch 18/25
+Train Squared Loss: 0.0125714, Validation Squared Loss: 0.0211888
+Train Zero One Loss: 0.0349702, Validation Zero One Loss: 0.0946327
+Learning rate: 0.01
+Epoch 19/25
+Train Squared Loss: 0.0125206, Validation Squared Loss: 0.0211685
+Train Zero One Loss: 0.0344742, Validation Zero One Loss: 0.0943322
+Learning rate: 0.01
+Epoch 20/25
+Train Squared Loss: 0.0124697, Validation Squared Loss: 0.0211655
+Train Zero One Loss: 0.0337302, Validation Zero One Loss: 0.0943322
+Learning rate: 0.01
+Epoch 21/25
+Train Squared Loss: 0.0124152, Validation Squared Loss: 0.0211567
+Train Zero One Loss: 0.0334821, Validation Zero One Loss: 0.0943322
+Learning rate: 0.01
+Epoch 22/25
+Train Squared Loss: 0.0123674, Validation Squared Loss: 0.0211359
+Train Zero One Loss: 0.0339782, Validation Zero One Loss: 0.0943322
+Learning rate: 0.01
+Epoch 23/25
+Train Squared Loss: 0.0123149, Validation Squared Loss: 0.0211473
+Train Zero One Loss: 0.0329861, Validation Zero One Loss: 0.0945763
+Learning rate: 0.01
+Epoch 24/25
+Train Squared Loss: 0.0122647, Validation Squared Loss: 0.0211355
+Train Zero One Loss: 0.0329861, Validation Zero One Loss: 0.0945763
+Learning rate: 0.01
+Epoch 25/25
+Train Squared Loss: 0.0122136, Validation Squared Loss: 0.0211222
+Train Zero One Loss: 0.0327381, Validation Zero One Loss: 0.0950646
+Learning rate: 0.01
+Training ended at 23:10:49

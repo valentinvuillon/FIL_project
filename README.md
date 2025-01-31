@@ -58,7 +58,6 @@ It is also useful because it allows to look at the training data of any trained 
 #### plot_figure.ipynb
 The goal of this notebook is to plot the figure 4 of the paper. Averaged between runs or per run.
 
-
 ### Remarks:
 All the codes above have been used with the cuda version of Pytorch (installed with requirements.txt) with a RTX4060. On a laptop with Windows 11.
 
